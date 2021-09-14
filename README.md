@@ -7,7 +7,7 @@
   <img align="left" alt="Rohan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-#### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kumarrohan2804.kumarrohan2804)
+## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kumarrohan2804.kumarrohan2804)
 
 <br />
 
@@ -21,8 +21,8 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any work related stuff? do reach, [email](mailto:kumarrohan2804@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+#### - 💼 any work related stuff? do reach, [email](mailto:kumarrohan2804@gmail.com) :)
+#### - 💬 ask me about anything, i am happy to help;
 <br />
 <br />
 <br />
