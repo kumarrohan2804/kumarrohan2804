@@ -14,10 +14,19 @@
 hi, i'm [Rohan Kumar Baranwal](https://portfolio-rohan.netlify.app/), a passionate full stack web developer and an aspiring software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
+<br />
+<br />
+<br />
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any work related stuff? do reach, [email](mailto:kumarrohan2804@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+<br />
+<br />
+<br />
+<br />
+<br />
 
 **languages and tools:**
 
