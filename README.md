@@ -7,12 +7,13 @@
   <img align="left" alt="Rohan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kumarrohan2804.kumarrohan2804)
+#### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kumarrohan2804.kumarrohan2804)
 
 <br />
 
-hi, i'm [Rohan Kumar Baranwal](https://portfolio-rohan.netlify.app/), a passionate full stack web developer and an aspiring software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
-I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+### hi, i'm [Rohan Kumar Baranwal](https://portfolio-rohan.netlify.app/), a passionate full stack web developer and an aspiring software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+
+### I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 <br />
 <br />
