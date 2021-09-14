@@ -22,16 +22,19 @@ I love exploring new tech stack ğŸ’» and leveraging them to build cool stuffs ğŸ
 **languages and tools:**
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img title="Redux" height="25" src="https://github.com/udit22022000/udit22022000/blob/master/images/redux.svg"></code>
 <code><img title="Problem Solving" height="25" src="https://github.com/udit22022000/udit22022000/blob/master/images/problemSolving.png"></code>
 <code><img title="HTML5" height="25" src="https://github.com/udit22022000/udit22022000/blob/master/images/html5.svg"></code>
 <code><img title="CSS" height="25" src="https://github.com/udit22022000/udit22022000/blob/master/images/css.svg"></code>
-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### My GitHub Stats
 
